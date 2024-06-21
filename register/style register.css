@@ -31,6 +31,13 @@ body::before {
   background: linear-gradient(to bottom, #175d69 23%, #330c43 95%);
 }
 
+.navbar .logo a {
+  position: central;
+  font-size: 1.8rem;
+  text-decoration: none;
+  color: #fff;
+}
+
 .wrapper {
   width: 400px;
   border-radius: 8px;
